@@ -8,12 +8,12 @@
   "env": {
     "PREFIX": {
       "description": "Enter your desired prefix for bot leave blank for no prefix prefix `| . | .!*`",
-      "value": ", ! ^ . ?",
+      "value": ".",
       "required": false
     },
     "SESSION_ID": {
-      "description": "input bot session id here the one you received when you paired",
-      "value": "",
+      "description": "input bot session id here the one you received when you pai",
+      "value": "PATRON-MD~d7061e784bc5303a7b72c2dcd9b0d880",
       "required": true
     },
     "DATABASE_URL": {
@@ -58,7 +58,7 @@
     },
     "SUDO": {
       "description": "The phone numbers of the users who you want to be sub admin for the bot for multiple number , as split (should be in international format without + \",\").",
-      "value": "2348025532222",
+      "value": "23470766575685",
       "required": false
     },
     "PACK_NAME": {
