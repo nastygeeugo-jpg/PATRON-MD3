@@ -6,15 +6,15 @@ require('dotenv').config();
 //================= { SETTINGS } =================\\
 global.prefix = (process.env.PREFIX || ".").trim().split(/\s+/);
 // your desired prefix symbol only
-global.owner = process.env.OWNER_NUMBER || "2348133729715"; // owner number , for multiple number
-global.sudo = process.env.SUDO  || "";
-global.ownername = process.env.OWNER_NAME || "Patron TechX"; //set bot owner name here 
-global.botname = process.env.BOT_NAME || "ᴘᴀᴛʀᴏɴ-ᴍᴅ"
-global.author = process.env.AUTHOR  || "Patron TechX";
-global.packname = process.env.PACK_NAME  || "© ᴘᴀᴛʀᴏɴ ᴍᴅ ²⁵";
-global.session = process.env.SESSION_ID || ""
+global.owner = process.env.OWNER_NUMBER || "2347074164483"; // owner number , for multiple number
+global.sudo = process.env.SUDO  || "2347066575685";
+global.ownername = process.env.OWNER_NAME || "PASCHAL"; //set bot owner name here 
+global.botname = process.env.BOT_NAME || "PASCHAL-ᴍᴅ"
+global.author = process.env.AUTHOR  || "PASCHAL";
+global.packname = process.env.PACK_NAME  || "PASCHAL";
+global.session = process.env.SESSION_ID || "PATRON-MD~d7061e784bc5303a7b72c2dcd9b0d880"
 global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
-global.simbol = process.env.SYMBOL || '🚹';
+global.simbol = process.env.SYMBOL || '😊';
 global.thumb = process.env.THUMB || "https://files.catbox.moe/e71nan.png"
 global.footer = process.env.FOOTER || '';
 global.warn = process.env.WARN || '4'
